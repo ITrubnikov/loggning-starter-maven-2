@@ -1,4 +1,4 @@
-package util;
+package ru.itrubnikov.loggingstarter;
 
 public class LoggingStarterAutoConfiguration {
     public static void println(String message) {
